@@ -191,6 +191,8 @@ Si ves este mensaje, significa que la configuración fue exitosa y ahora puedes 
 Ejecuta
 
   git config --global user.email "you@example.com"
+
+  
   git config --global user.name "Tu Nombre"
 
 
